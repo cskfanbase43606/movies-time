@@ -117,13 +117,13 @@ const Header = ({
             </motion.ul>
           ) : null}
           <section className="nav-socials">
-            <a rel="noreferrer" target="_blank" href="https://ekaterine-mitagvaria.vercel.app/">
+            <a rel="noreferrer" target="_blank" href="">
               <img src={WebIcon} alt='Vercel icon' className='web-icon' />
             </a>
-            <a rel="noreferrer" target="_blank" href="https://github.com/catherineisonline/movies-time">
+            <a rel="noreferrer" target="_blank" href="">
               <img src={GitLight} alt='Github icon' />
             </a>
-            <a rel="noreferrer" target="_blank" href="https://developers.themoviedb.org/4/getting-started/authorization">
+            <a rel="noreferrer" target="_blank" href="">
               <img src={MovieLight} alt='Movie API icon' />
             </a>
           </section>
